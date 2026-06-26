@@ -24,7 +24,7 @@ h1 {
   line-height: 0;
 }
 a {
-  color: rgb(24, 102, 47);
+  color: rgb(205, 73, 93);
   font-style: italic;
   text-decoration: none;
   transition: all 1s ease-in;
@@ -45,7 +45,7 @@ ul li {
   margin: 0.5rem 0;
 }
 ul li span {
-  color: rgb(72, 171, 90);
+  color: rgb(103, 197, 255);
   font-weight: bold;
 }
 p {

@@ -4,8 +4,8 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 
   /* background-color:white;
   color: black; */
@@ -39,7 +39,7 @@ h1 {
   line-height: 0;
 }
 a{
-    color: blue;
+    color: rgb(173, 37, 226);
     font-style: italic;
     text-decoration: none;
     transition: all 1s ease-in;
